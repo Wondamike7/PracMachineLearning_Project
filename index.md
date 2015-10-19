@@ -1,6 +1,6 @@
 # Predicting Activity Type
 Michael Moskowitz  
-Saturday, October 16, 2015  
+Sunday, October 18, 2015  
 
 
 
